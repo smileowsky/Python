@@ -1,0 +1,11 @@
+#python stuff
+.pylintrc
+__pycanhce__/
+
+#ide stuff
+.vscode
+.idea
+
+#django stuff
+db.sqlite3
+media/
